@@ -1,7 +1,6 @@
 # Music-player App
  
-## Hosted at:
-### https://mixtape-music-player.netlify.app/
+## https://mixtape-music-player.netlify.app/
  
 ## Technologies include:
  
